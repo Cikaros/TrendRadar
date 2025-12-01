@@ -1,46 +1,72 @@
-胖东来
-于东来
-
+微服务架构演进
+云原生架构
+Service Mesh实践
+Serverless架构落地
+高并发系统设计
+分布式事务解决方案
+领域驱动设计 DDD
+CQRS架构模式
+事件驱动架构 EDA
+可观测性体系建设
+混沌工程实战
+多活数据中心架构
+AI原生应用架构
+大模型推理优化
+RAG架构实现
+Agent智能体架构
+LLM微调技术
+多模态大模型
+MoE架构进展
+模型蒸馏与量化
+向量数据库选型
+LangChain新版本
+Llama 4开源动态
+国产大模型对比
+AI编程助手评测
+Java 21新特性
+Project Loom虚拟线程
+Project Panama本地互操作
+GraalVM原生镜像
+Spring Boot 3.4
+Spring Cloud Alibaba
+Quarkus性能对比
+Micronaut实战
+Vert.x高并发
+Jakarta EE 10生态
+Kafka流处理优化
+RocketMQ 6.0
+Pulsar vs Kafka
+Redis 8新特性
+Elasticsearch向量检索
+Apache Flink实时计算
+Apache Doris湖仓一体
+Seata分布式事务
+Nacos配置中心
+Sentinel熔断限流
+ShardingSphere分库分表
+MyBatis Plus增强
+Hibernate Reactive
+JDK长期支持策略
+G1 vs ZGC vs Shenandoah
+Java内存模型更新
+AI for Java开发者
+Java集成大模型
+LangChain4j实战
+Spring AI框架
+向量搜索中间件
+AI中间件架构
+大模型私有化部署
+模型即服务 MaaS
+AI推理中间件
 DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
 任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
 智元
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
 刘强东
@@ -48,9 +74,6 @@ DJI
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -98,16 +121,4 @@ ai
 
 科技
 
-核能
-
-水电站
-雅鲁藏布江
-
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
